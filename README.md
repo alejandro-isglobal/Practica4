@@ -4,7 +4,7 @@
 
 Modelos de probabilidad
 
-- PDFs: [diapos](https://github.com/alejandro-isglobal/alejandro-isglobal.github.io/blob/master/slides/lecture5.pdf)
+- PDFs: [diapos](https://github.com/alejandro-isglobal/alejandro-isglobal.github.io/blob/master/slides/Practica5.pdf)
 
 - Videos: [Video 1](https://youtu.be/WMRgZEuSSBU), [Video 2](https://youtu.be/MG0W5-Sw48U), [Video 3](https://youtu.be/awQ34qKnZSw)
 
@@ -12,6 +12,10 @@ Modelos de probabilidad
 
 comandos:
 
+- <code>dbinom()</code>
+- <code>pbinom()</code>
+- <code>pnbinom()</code>
+- <code>dnbinom()</code>
 - <code>dpois()</code>
 - <code>ppois()</code>
 - <code>dexp()</code>
@@ -19,8 +23,7 @@ comandos:
 - <code>dnorm()</code>
 - <code>pnorm()</code>
 - <code>qnorm()</code>
-- <code>pbinom()</code>
-- <code>qbinom()</code>
+
 
 
 [Pregunta 1](Pregunta1.png)
