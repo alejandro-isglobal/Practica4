@@ -27,7 +27,7 @@ comandos:
 
 
 [Pregunta 1](Pregunta1.png)
-
+[Pregunta 2](Pregunta2.png)
 
 # Ejercicio 1
 
